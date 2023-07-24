@@ -2,8 +2,7 @@
 
 ## 相关信息
 
-*
-基于官方发布的 [sentinel-demo-spring-webmvc](https://github.com/alibaba/Sentinel/tree/master/sentinel-demo/sentinel-demo-spring-webmvc)
+* 基于官方发布的 [sentinel-demo-spring-webmvc](https://github.com/alibaba/Sentinel/tree/master/sentinel-demo/sentinel-demo-spring-webmvc)
 
 ## 功能说明
 
