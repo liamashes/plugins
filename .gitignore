@@ -1,4 +1,4 @@
-.gitignore
 .idea
 sentinel-nacos/target
 sentinel-nacos/test-nacos-datasource.sh
+.gitignore
