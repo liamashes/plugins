@@ -8,12 +8,7 @@
 
 * 通过sentinel-dashboard、nacos配置页面对配置的修改，可以实时的更新
 
-## 设计
+## 设计及代码分析
 
-> 待补充
+> 参考 [流程图](https://www.processon.com/view/64bde108f208ef32d3dfc2a5)
 
-## 流程分析
-
-> 添加流量规则的处理过程
-
-![add rule](../images/sentinel-dashboard-add-flow-rule.png)
